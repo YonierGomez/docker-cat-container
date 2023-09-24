@@ -32,15 +32,15 @@ $ docker run --name catcontainer -d -p 8080:80 neytor/catcontainer
 ---
 version: '3'
 services:
-	catcontainer:
-	image: neytor/catcontainer
-	restart: always
-	ports:
-	- 8080:80
-	networks:
-	- mynet
+  catcontainer:
+  image: neytor/catcontainer
+  restart: always
+  ports:
+  - 8080:80
+  networks:
+  - mynet
 networks:
-	mynet:
+  mynet:
 ...
 ```
 ## Arquitectura soportada
