@@ -4,11 +4,11 @@
 ## Referencia rápida
 
 
-- ¿Un gato en un container?
-- ¿Cuál es nuestro uso?
-- ¿Cómo usar esta imagen?
-- Arquitectura soportada
-- Te invito a visitar mi web
+- **¿Un gato en un container?**
+- **¿Cuál es nuestro uso?**
+- **¿Cómo usar esta imagen?**
+- **Arquitectura soportada**
+- **Te invito a visitar mi web**
 
 # ¿Un gato en un container?
 
