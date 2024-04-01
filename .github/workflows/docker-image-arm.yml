@@ -29,8 +29,8 @@ jobs:
 
     - name: Build and push the Docker image with tag
       run: |
-        docker build . --file Dockerfile --tag neytor/catcontainer:arm.v.fe.40 && \
-        docker image ls && docker push neytor/catcontainer:arm.v.fe.40
+        docker build . --file Dockerfile --tag neytor/catcontainer:arm.v.fe.41 && \
+        docker image ls && docker push neytor/catcontainer:arm.v.fe.41
       
     
 
