@@ -1,4 +1,4 @@
-FROM fedora:41
+FROM amazonlinux
 LABEL MAINTAINER Yonier Gomez
 RUN dnf -y install httpd
 COPY index.html containercat.jpg /var/www/html/
